@@ -1,2 +1,0 @@
-# BotProjectPython
-Small python project
